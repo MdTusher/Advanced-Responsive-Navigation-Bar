@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.link-btn:hover {
+  color: black;
+}
+
+.submenu {
+  position: absolute;
+  left: 50%;
+  top: 2rem;
+}
